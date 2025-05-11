@@ -1,0 +1,108 @@
+
+[
+  {
+    "id": "1",
+    "title": "Men's Classic Navy Suit",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+    "description": "A sharp, classic navy suit perfect for business or casual events.",
+    "price": 129.99
+  },
+  {
+    "id": "2",
+    "title": "Women's Beige Linen Suit",
+    "image": "https://images.unsplash.com/photo-1603252109303-2751441dd157",
+    "description": "Lightweight and breathable linen suit ideal for warm weather and smart occasions.",
+    "price": 139.50
+  },
+  {
+    "id": "3",
+    "title": "Men's Charcoal Slim Fit Suit",
+    "image": "https://images.unsplash.com/photo-1582061954701-9b4b1f4a69a5",
+    "description": "Modern slim-fit suit in a versatile charcoal tone for all-day comfort.",
+    "price": 149.00
+  },
+  {
+    "id": "4",
+    "title": "Women's Pastel Pink Blazer Set",
+    "image": "https://images.unsplash.com/photo-1618354691211-64ceec22e27d",
+    "description": "Elegant pastel pink blazer with matching pants for a chic casual look.",
+    "price": 119.75
+  },
+  {
+    "id": "5",
+    "title": "Men's Khaki Casual Suit",
+    "image": "https://images.unsplash.com/photo-1577219491135-ce391730fb0b",
+    "description": "Casual khaki suit for a smart yet relaxed style, great for weekends.",
+    "price": 114.99
+  },
+  {
+    "id": "6",
+    "title": "Women's Olive Green Suit",
+    "image": "https://images.unsplash.com/photo-1602810311228-0881a2f8fdf4",
+    "description": "Bold and confident olive green suit with a tailored fit.",
+    "price": 125.00
+  },
+  {
+    "id": "7",
+    "title": "Men's Light Gray Suit",
+    "image": "https://images.unsplash.com/photo-1618354691211-64ceec22e27d",
+    "description": "Stylish light gray suit, perfect for daytime and semi-formal occasions.",
+    "price": 134.50
+  },
+  {
+    "id": "8",
+    "title": "Women's Navy Double-Breasted Suit",
+    "image": "https://images.unsplash.com/photo-1602810311228-0881a2f8fdf4",
+    "description": "Sophisticated navy blue double-breasted design with a modern touch.",
+    "price": 144.25
+  },
+  {
+    "id": "9",
+    "title": "Men's Burgundy Party Suit",
+    "image": "https://images.unsplash.com/photo-1590034477803-8e53127d46c5",
+    "description": "A fashionable burgundy suit for evening wear or special occasions.",
+    "price": 154.00
+  },
+  {
+    "id": "10",
+    "title": "Women's Gray Check Casual Suit",
+    "image": "https://images.unsplash.com/photo-1542062703-2d67c2f6a71b",
+    "description": "Trendy check pattern in gray for a stylish yet comfortable fit.",
+    "price": 130.00
+  },
+  {
+    "id": "11",
+    "title": "Men's Sand Stretch Suit",
+    "image": "https://images.unsplash.com/photo-1582061954701-9b4b1f4a69a5",
+    "description": "Made with stretch fabric for all-day comfort and movement.",
+    "price": 119.99
+  },
+  {
+    "id": "12",
+    "title": "Women's White Cotton Suit",
+    "image": "https://images.unsplash.com/photo-1618915914092-499a6290b11b",
+    "description": "Crisp white cotton suit offering a clean and modern silhouette.",
+    "price": 110.75
+  },
+  {
+    "id": "13",
+    "title": "Men's Forest Green Suit",
+    "image": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809",
+    "description": "Unique forest green suit to stand out at casual and formal events.",
+    "price": 145.00
+  },
+  {
+    "id": "14",
+    "title": "Women's Blush Peach Suit",
+    "image": "https://images.unsplash.com/photo-1600180758890-6fd9b8c93644",
+    "description": "Soft blush peach hue adds warmth and style to your look.",
+    "price": 135.99
+  },
+  {
+    "id": "15",
+    "title": "Men's Denim Style Suit",
+    "image": "https://images.unsplash.com/photo-1573497019410-eb83980b4f29",
+    "description": "Casual denim-style suit blending streetwear with formal aesthetics.",
+    "price": 138.25
+  }
+]
